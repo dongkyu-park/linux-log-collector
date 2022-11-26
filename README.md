@@ -20,6 +20,12 @@
 - 호출 정보 시간과 결과 정보 시간이 같은 2개의 line은 정렬시 -r 옵션을 주어 호출-결과-호출-결과 로 정형화 될 수 있도록 설정
 - 결과로 담긴 result 파일을 가공하여 수행 시간 순으로 내림 차순 정렬하고, url 별 호출 count를 count 파일에 기록
 
+![image](https://user-images.githubusercontent.com/81552729/204103130-845c7cb2-ed7c-41d6-af97-f247c9d0d328.png)
+
+![image](https://user-images.githubusercontent.com/81552729/204103146-fe2d9e21-b75f-47b7-acc6-a5103f2caf27.png)
+
+![image](https://user-images.githubusercontent.com/81552729/204103154-e9bdafc7-6d6a-4486-893e-4d23e2881ce4.png)
+
 ```bash
 # 압축된 로그파일이 들어있는 폴더 경로와 복사할 폴더 설정
 originPath="C:/Users/Park/Desktop"
